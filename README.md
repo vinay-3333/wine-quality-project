@@ -1,1 +1,0 @@
-ECR URI:-    533267094589.dkr.ecr.ap-south-1.amazonaws.com/mlproject
